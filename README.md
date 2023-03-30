@@ -10,9 +10,10 @@ The match data is stored in a CSV file called DATA.csv, which contains the follo
 # Libraries
 The following Python libraries are used in the code:
 
-## Pandas: used for reading and manipulating the match data CSV file
+Pandas: used for reading and manipulating the match data CSV file
 Scikit-learn: used for training a logistic regression model to predict the outcome of a game based on the number of red cards received by each team
-## Matplotlib: used for plotting a bar chart of the percentage of games that resulted in a draw
+Matplotlib: used for plotting a bar chart of the percentage of games that resulted in a draw
+
 # Methods
 The code in this repository consists of the following Python scripts:
 
