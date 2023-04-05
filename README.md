@@ -5,7 +5,7 @@ Which team received the most red cards during the season?
 Does the number of red cards a team receives have an effect on its probability of winning a game?
 What percentage of games resulted in a draw during the season?
 # Data
-The match data is stored in a CSV file called DATA.csv, which contains the following columns:
+The match data is stored in a CSV file called coccer_18-19.csv, which contains the following columns:
 
 # Libraries
 The following Python libraries are used in the code:
